@@ -1,5 +1,5 @@
 <a href="http://pavansingh.co.za">
-  <img width="100%" src="https://github.com/pavsingh7/cover/code.jpg">
+  <img width="100%" src="https://github.com/pavsingh7/cover/blob/main/code.jpg">
 </a>
 
 
