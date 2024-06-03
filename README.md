@@ -6,7 +6,7 @@
 
 ## **Biography**
 
-Pavan Singh, a masters in advanced analytics candidate at the University of Cape Town. My research interests lie with text mining and natural language processing in general, as well as its intersection in Recommender Systems (RecSys) and their applications on consumer data. For more information see my [portfolio](http://pavansingh.co.za). 
+Pavan Singh, a data scientist within an advanced analytics team within the Financial Services industry. My research interests lie with Recommender Systems (RecSys) and their applications, as well as predictive modelling. For more information see my [portfolio](http://pavansingh.co.za). 
 
 
 
