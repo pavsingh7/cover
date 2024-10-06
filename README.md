@@ -6,7 +6,7 @@
 
 ## **Biography**
 
-Pavan Singh, a data scientist in Financial Services within an advanced analytics team. My research interests lie with Recommender Systems (RecSys) and their applications, as well as predictive modelling. For more information see my [portfolio](http://pavansingh.co.za). 
+I am Pavan Singh, a data scientist in Financial Services within an advanced analytics team. My research interests lie with Recommender Systems (RecSys) and their applications, as well as predictive modelling. For more information see my [portfolio](http://pavansingh.co.za). 
 
 
 
